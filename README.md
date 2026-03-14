@@ -31,7 +31,7 @@ Este sistema simula un flujo de procesamiento de transacciones bancarias utiliza
 ### Pasos
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Celso33Gabriel/Proyecto_3_progra.git](https://github.com/Celso33Gabriel/Proyecto_3_progra.git)
+   git clone (https://github.com/Celso33Gabriel/Proyecto_3_progra.git)
 2. Iniciar el Producer: Ejecutar la clase Main del proyecto Producer para descargar las transacciones, firmarlas y enviarlas a RabbitMQ.
 
 3.Iniciar el Consumer: Ejecutar la clase Main del proyecto Consumer para que empiece a procesar las colas y enviar los datos a la nube.

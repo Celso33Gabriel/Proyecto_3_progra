@@ -34,9 +34,11 @@ Este sistema simula un flujo de procesamiento de transacciones bancarias utiliza
    git clone [https://github.com/Celso33Gabriel/Proyecto_3_progra.git](https://github.com/Celso33Gabriel/Proyecto_3_progra.git)
 2. Iniciar el Producer: Ejecutar la clase Main del proyecto Producer para descargar las transacciones, firmarlas y enviarlas a RabbitMQ.
 
-Iniciar el Consumer: Ejecutar la clase Main del proyecto Consumer para que empiece a procesar las colas y enviar los datos a la nube.
+3.Iniciar el Consumer: Ejecutar la clase Main del proyecto Consumer para que empiece a procesar las colas y enviar los datos a la nube.
 
-Verificación: Observar la consola del Consumer para confirmar los códigos 201 OK de la API de Amazon.
+4.Verificación: Observar la consola del Consumer para confirmar los códigos 201 OK de la API de Amazon.
+
+Video de Explicacion:
 
 ## Alumno: Celso Gabriel Sarceño Corado
 

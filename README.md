@@ -38,7 +38,7 @@ Este sistema simula un flujo de procesamiento de transacciones bancarias utiliza
 
 4.Verificación: Observar la consola del Consumer para confirmar los códigos 201 OK de la API de Amazon.
 
-Video de Explicacion:
+Video de Explicacion: https://drive.google.com/file/d/1sWfQXoL-91HuaNl07-6tZNSdDz9LgrBq/view?usp=drive_link
 
 ## Alumno: Celso Gabriel Sarceño Corado
 
